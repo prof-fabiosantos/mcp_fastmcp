@@ -1,6 +1,3 @@
-
-fastapi
 uvicorn
-fastmcp
-httpx
-sse-starlette
+starlette
+mcp
